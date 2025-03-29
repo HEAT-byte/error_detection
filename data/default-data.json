@@ -1,0 +1,21 @@
+{
+  "sensors": [
+    { "id": "C001", "name": "上游一号塔一号索", "type": "应变", "value": 235.8, "status": "normal", "lastUpdate": "2023-11-10 13:45:23" },
+    { "id": "C002", "name": "上游一号塔二号索", "type": "应变", "value": 242.3, "status": "normal", "lastUpdate": "2023-11-10 13:45:22" },
+    { "id": "C003", "name": "上游一号塔三号索", "type": "应变", "value": 267.9, "status": "warning", "lastUpdate": "2023-11-10 13:45:20" },
+    { "id": "C004", "name": "上游一号塔四号索", "type": "应变", "value": 229.1, "status": "normal", "lastUpdate": "2023-11-10 13:45:18" },
+    { "id": "C005", "name": "上游二号塔一号索", "type": "应变", "value": 246.5, "status": "normal", "lastUpdate": "2023-11-10 13:45:15" },
+    { "id": "C006", "name": "上游二号塔二号索", "type": "应变", "value": 251.7, "status": "normal", "lastUpdate": "2023-11-10 13:45:12" },
+    { "id": "C007", "name": "上游二号塔三号索", "type": "应变", "value": 293.2, "status": "danger", "lastUpdate": "2023-11-10 13:45:10" },
+    { "id": "C008", "name": "下游一号塔一号索", "type": "应变", "value": 238.4, "status": "normal", "lastUpdate": "2023-11-10 13:45:08" },
+    { "id": "C009", "name": "下游一号塔二号索", "type": "应变", "value": 243.1, "status": "normal", "lastUpdate": "2023-11-10 13:45:05" },
+    { "id": "C010", "name": "下游二号塔一号索", "type": "应变", "value": 247.8, "status": "normal", "lastUpdate": "2023-11-10 13:45:02" },
+    { "id": "T001", "name": "上游一号塔温度", "type": "温度", "value": 15.2, "status": "normal", "lastUpdate": "2023-11-10 13:45:00" },
+    { "id": "T002", "name": "上游二号塔温度", "type": "温度", "value": 15.5, "status": "normal", "lastUpdate": "2023-11-10 13:44:58" },
+    { "id": "T003", "name": "下游一号塔温度", "type": "温度", "value": 14.9, "status": "normal", "lastUpdate": "2023-11-10 13:44:55" },
+    { "id": "T004", "name": "下游二号塔温度", "type": "温度", "value": 15.1, "status": "normal", "lastUpdate": "2023-11-10 13:44:52" },
+    { "id": "V001", "name": "主桥中央振动", "type": "振动", "value": 0.32, "status": "normal", "lastUpdate": "2023-11-10 13:44:50" },
+    { "id": "V002", "name": "上游一号塔振动", "type": "振动", "value": 0.28, "status": "normal", "lastUpdate": "2023-11-10 13:44:48" },
+    { "id": "V003", "name": "下游一号塔振动", "type": "振动", "value": 0.45, "status": "warning", "lastUpdate": "2023-11-10 13:44:45" }
+  ]
+} 
